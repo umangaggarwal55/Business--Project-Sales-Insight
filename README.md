@@ -8,7 +8,7 @@ Dashboard in Excel: https://1drv.ms/x/c/e0bf0890509a9d51/Ea27ifnpfXBNkvNY7CBNDa8
 
 DashBoard in Power Bi:https://1drv.ms/u/c/e0bf0890509a9d51/EbEVx1U6cFRNo9AS-J1CIOwBVAMZT9jhS0Eq9WA9Koh_5Q?e=Y9klmW
 
-<img src="https://github.com/umangaggarwal55/Business-Project-1/blob/main/BA%20dash..png?raw=true" alt="Image Description" width="500" />
+<img src="https://github.com/umangaggarwal55/Business--Project-Sales-Insight/blob/main/ba%20power%20bi.png?raw=true" alt="Image Description" width="500" />
 
 
 
