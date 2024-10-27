@@ -2,7 +2,10 @@
 
 # Sales Performance Dashboard for Retail Businesses
 
-Dashboard in Excel: https://1drv.ms/x/c/e0bf0890509a9d51/Ea27ifnpfXBNkvNY7CBNDa8BRNTKsAfEvdbbk0jBqdtP4Q?e=2DltQU
+Dashboard in Excel:https://docs.google.com/spreadsheets/d/1ZIvvIkzjTnatuTUg-mXCpAFyx734dLzC/edit?usp=drive_link&ouid=110151282713329797032&rtpof=true&sd=true
+
+
+https://1drv.ms/x/c/e0bf0890509a9d51/Ea27ifnpfXBNkvNY7CBNDa8BRNTKsAfEvdbbk0jBqdtP4Q?e=2DltQU
 
 <img src="https://github.com/umangaggarwal55/Business-Project-1/blob/main/BA%20dash..png?raw=true" alt="Image Description" width="500" />
 
