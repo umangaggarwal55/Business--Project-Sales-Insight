@@ -4,6 +4,9 @@
 
 Dashboard in Excel:https://docs.google.com/spreadsheets/d/1ZIvvIkzjTnatuTUg-mXCpAFyx734dLzC/edit?usp=drive_link&ouid=110151282713329797032&rtpof=true&sd=true
 
+<img src="https://github.com/umangaggarwal55/Business--Project-Sales-Insight/blob/main/coffee%20sales%20photo.png?raw=true" alt="Image Description" width="500" />
+
+
 
 https://1drv.ms/x/c/e0bf0890509a9d51/Ea27ifnpfXBNkvNY7CBNDa8BRNTKsAfEvdbbk0jBqdtP4Q?e=2DltQU
 
