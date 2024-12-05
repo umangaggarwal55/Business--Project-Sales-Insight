@@ -1,6 +1,5 @@
 # Business--Project-Sales-Insight
 UID:- 23MCA20463(Umang)
-UID:- 23MCA20464(Preetika)
 
 # Sales Performance Dashboard for Retail Businesses
 
